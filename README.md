@@ -1,0 +1,1 @@
+# equal_weight_investment_bse500
